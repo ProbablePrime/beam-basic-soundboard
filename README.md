@@ -29,5 +29,5 @@ A basic soundboard, requires a number of votes before a sound.
 - cooldown: how long should the cooldown be after this button is triggered
 
 # Troubleshooting
-Sound playback only tested on win64.
+Sound playback only tested on win64. Uses: https://github.com/adriancooney/node-sfx for mac and linux
 
