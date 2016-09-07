@@ -8,7 +8,7 @@ A basic soundboard, requires a number of votes before a sound.
 1. Set spark cost, cooldown and name to your specifications.
 1. Clone/Download zip
 1. npm install in project root
-1. [Get A Token](interactive.beam.pro/request)
+1. [Get A Token](https://interactive.beam.pro/request)
 1. Edit the default config file, paste in your token.
 1. Dump sound files in sounds/
 1. for each sound add an object to the sounds array in the config file, see sample below
