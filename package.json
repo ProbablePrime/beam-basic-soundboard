@@ -1,0 +1,20 @@
+{
+  "name": "beam-cooking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "beam-client-node": "^0.7.1",
+    "beam-interactive-node": "^0.3.2",
+    "config": "^1.21.0",
+    "sfx": "git://github.com/ProbablePrime/node-sfx"
+  },
+  "xo": {
+    "esnext": true
+  }
+}

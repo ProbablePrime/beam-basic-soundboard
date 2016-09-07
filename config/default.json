@@ -1,0 +1,13 @@
+{
+	"auth":{
+		"token": "<TOKEN HERE>"
+	},
+	"sounds": [
+		{
+			"file":"congratulations.mp3",
+			"id":0,
+			"votesRequired":10,
+			"cooldown":60000
+		}
+	]
+}
