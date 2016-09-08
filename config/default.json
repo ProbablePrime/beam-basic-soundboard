@@ -1,6 +1,10 @@
 {
 	"auth":{
-		"token": "<TOKEN HERE>"
+		"token": ""
+	},
+	"globalCooldown":{
+		"enabled": true,
+		"time": 60000
 	},
 	"sounds": [
 		{

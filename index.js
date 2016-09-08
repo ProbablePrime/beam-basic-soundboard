@@ -11,7 +11,7 @@ const Handler = require('./lib/Handler');
 let channelId;
 let robot;
 
-const handler = new Handler(config.get('sounds'));
+const handler = new Handler(config.get('sounds'), config.get('globalCooldown'));
 
 function performRobotHandshake(robot) {
 	return new Promise((resolve, reject) => {
