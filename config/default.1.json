@@ -1,0 +1,25 @@
+{
+	"auth":{
+		"token": "RHPAtzF2RSoRufC8CcZUwo7QnPDX3Bv8E5hHQA7T9gRYRrznoHNb17k9kMb3lNZV"
+	},
+	"sounds": [
+		{
+			"file":"congratulations.mp3",
+			"id":0,
+			"votesRequired":10,
+			"cooldown":60000
+		},
+		{
+			"file":"Turkey Gobble-SoundBible.com-123256561.mp3",
+			"id":1,
+			"votesRequired":10,
+			"cooldown":60000
+		},
+		{
+			"file":"whistle.mp3",
+			"id":2,
+			"votesRequired":10,
+			"cooldown":60000
+		}
+	]
+}
